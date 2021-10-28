@@ -14,7 +14,6 @@
             android:id="@+id/bottom"
             app:itemBackground="@drawable/ic_launcher_background"
             app:labelVisibilityMode="labeled"
-            app:menu="@menu/menu_bottom"
-            />
+            app:menu="@menu/menu_bottom" />
 
 </FrameLayout>

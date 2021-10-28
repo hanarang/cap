@@ -9,7 +9,7 @@ import android.view.MenuItem;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
-   /* BottomNavigationView bottomNavigationView;
+    /*BottomNavigationView bottomNavigationView;
     Fragment1 fragment1;
     Fragment2 fragment2;*/
 
